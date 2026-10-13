@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# History & cache
+.doer_history
+.tb_history
+
+# Misc
+.env
+*.tmp

@@ -1,0 +1,12 @@
+{
+  "name": "doer",
+  "version": "1.0.0",
+  "date": "2026-10-13",
+  "codename": "",
+  "logo": {
+    "pattern": "waves",
+    "palette": "#1e1e2e,#cba6f7,#f38ba8,#fab387,#89b4fa",
+    "shape": "squircle",
+    "font": "sans"
+  }
+}

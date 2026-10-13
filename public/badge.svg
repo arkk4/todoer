@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="20" viewBox="0 0 87 20" role="img" aria-label="doer: v1.0.0">
+<title>doer: v1.0.0</title>
+<defs><clipPath id="b6ynpvgc"><rect width="87" height="20" rx="3"/></clipPath><clipPath id="b6ynpvgv"><rect x="39" width="48" height="20"/></clipPath></defs>
+<g clip-path="url(#b6ynpvgc)">
+<rect width="39" height="20" fill="#555555"/>
+<g clip-path="url(#b6ynpvgv)"><g transform="translate(39 -14) scale(0.48)"><rect width="100" height="100" fill="#89b4fa"/><path d="M-65.11 20.85q20 -8.61 40 0t40 0t40 0t40 0t40 0V110H-65.11Z" fill="#fab387"/><path d="M-69.84 50.14q20 -12.91 40 0t40 0t40 0t40 0t40 0V110H-69.84Z" fill="#1e1e2e"/><path d="M-65.72 79.8q20 -10.34 40 0t40 0t40 0t40 0t40 0V110H-65.72Z" fill="#cba6f7"/></g></g>
+</g>
+<g text-anchor="middle" font-size="11" text-rendering="geometricPrecision">
+<g font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif">
+<text x="19.5" y="11" dy="0.35em" fill="#010101" fill-opacity=".3" textLength="27">doer</text>
+<text x="19.5" y="10" dy="0.35em" fill="#fff" textLength="27">doer</text>
+</g>
+<text x="63" y="10" dy="0.35em" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="700" fill="#ffffff" stroke="#000000" stroke-opacity="0.9" stroke-width="2.2" paint-order="stroke" stroke-linejoin="round" textLength="36">v1.0.0</text>
+</g>
+</svg>

@@ -1,0 +1,3 @@
+[submodule "vendor/logogen"]
+	path = vendor/logogen
+	url = ../logogen
